@@ -1,3 +1,30 @@
 body{
   color: red;
 }
+.container{
+  background-color: #F9F9F9;
+}
+.row1{
+  margin: 20px;
+}
+.row1-1{
+  height: 75px;
+  background-color: black;
+}
+.row1-2{
+  height: 75px;
+  background-color: #F9F9F9;
+}
+.row1-3{
+  height: 25px;
+  background-color: black;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.row2{
+  margin: 20px;
+}
+.row2-1{
+  height: 200px;
+  background-color: black;
+}
